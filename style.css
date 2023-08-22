@@ -98,7 +98,7 @@
  }
 
  .question {
-    background-image: url(resouces/white.jpg);
+    background-image: url(white\ gradient.avif);
     color: var(--neutrals-grey-1, #121A26);
     /* Bold Body text */
     font-family: Aeonik;
