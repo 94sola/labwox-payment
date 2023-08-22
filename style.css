@@ -26,6 +26,8 @@
     font-weight: 700;
     line-height: 120%; /* 28.8px */
     margin: 30px 10px;
+    width: 740px;
+    padding: 40px;
  }
 
  .banner h1 span {
